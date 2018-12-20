@@ -1,4 +1,4 @@
-# @cubbles/coder-template - Test
+# @cubbles/coder-template
 
 > NOTE: Under development. Use it for evaluation purposes only.
 
